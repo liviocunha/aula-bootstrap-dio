@@ -1,1 +1,28 @@
 
+body{
+	font: 20px Arial, sans-serif ;
+}
+
+.navbar{
+	background-color: PaleTurquoise;
+}
+
+.about-us{
+	background-color: SteelBlue;
+	color: white;
+
+}
+
+.partners{
+	background-color: LightPink;
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
+}
+
+.margin{
+	padding-bottom: 50px;
+
+}
